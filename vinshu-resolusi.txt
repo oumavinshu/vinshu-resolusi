@@ -1,4 +1,4 @@
 VINSHU RESOLUSI
 - Konsisten mempelajari hal-hal yang dibutuhkan untuk menjadi Web Developer
-- Mempelajari GITHUB
 - Mempelajari Javascript Lanjutan dari Web Programming UNPAS
+- Mempelajari ReactJS
