@@ -1,0 +1,7 @@
+RENCANA BELAJAR VINSHU 
+
+- ReactJS
+- Javascript
+  * ES6
+- Bootstrap
+- nodeJS
